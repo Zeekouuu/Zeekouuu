@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently **a software enginering student and Fullstack Spring & React.js Developper**
 
-- 🌱 I’m currently learning **React.js | Python**
+- 🌱 I’m currently learning **React.js | Laravel**
 
 - 👯 I’m looking to collaborate on **to colany Spring Open Source project**
 
