@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm BOUARGA ZAKARIA</h1>
-<h3 align="center">Software Engineering | React.js/Vue.js-SpringBoot</h3>
+<h3 align="center">Software Engineering | React.js/SpringBoot</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeekouu&label=Profile%20views&color=0e75b6&style=flat" alt="zeekouu" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently **a software enginering student and Fullstack Spring & React.js Developper**
 
-- 🌱 I’m currently learning **React.js | Laravel**
+- 🌱 I’m currently learning **React.js | React native**
 
 - 👯 I’m looking to collaborate on **to colany Spring Open Source project**
 
